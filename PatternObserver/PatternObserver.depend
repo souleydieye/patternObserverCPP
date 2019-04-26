@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1543948558 source:c:\users\souleymane\desktop\patternobserver\patternobserver\concretetrafficlight.cpp
+	<string>
+	<set>
+	<iostream>
+	"TrafficLight.h"
+	"ConcreteTrafficLight.h"
+	"Driver.h"
+
+1543949632 c:\users\souleymane\desktop\patternobserver\patternobserver\trafficlight.h
+	<string>
+	<set>
+	<iostream>
+	"Observer.h"
+	<list>
+
+1543954574 c:\users\souleymane\desktop\patternobserver\patternobserver\observer.h
+	<string>
+	<set>
+	<iostream>
+
+1543949402 c:\users\souleymane\desktop\patternobserver\patternobserver\concretetrafficlight.h
+	<string>
+	<set>
+	<iostream>
+
+1543954590 c:\users\souleymane\desktop\patternobserver\patternobserver\driver.h
+	<string>
+	<set>
+	<iostream>
+	<string>
+	"Observer.h"
+
+1543954608 source:c:\users\souleymane\desktop\patternobserver\patternobserver\driver.cpp
+	<string>
+	<set>
+	<iostream>
+	"Observer.h"
+	"Driver.h"
+
+1543955700 source:c:\users\souleymane\desktop\patternobserver\patternobserver\main.cpp
+	<iostream>
+	"Driver.h"
+	"TrafficLight.h"
+
+1543954584 source:c:\users\souleymane\desktop\patternobserver\patternobserver\observer.cpp
+	<string>
+	<set>
+	<iostream>
+	"Observer.h"
+
+1543952938 source:c:\users\souleymane\desktop\patternobserver\patternobserver\trafficlight.cpp
+	<string>
+	<set>
+	<iostream>
+	"TrafficLight.h"
+
